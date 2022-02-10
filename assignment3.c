@@ -16,6 +16,4 @@ int main()
     }
     return 0;
 }
- /*default:
-        printf("The No. is even");
-        break;*/
+ 

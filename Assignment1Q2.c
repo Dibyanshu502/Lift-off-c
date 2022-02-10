@@ -1,3 +1,5 @@
+/*Q 2. Write a program to find maximum between two numbers. (In this question, you’ll learn the use of if-else condition*/
+
 # include <stdio.h>
 void main()
 {

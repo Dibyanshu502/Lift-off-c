@@ -1,7 +1,8 @@
+/*Q 3. Write a C program to check whether a number is even or odd using switch case. 
+(In this question, you’ll apply the switch case concept)*/
+
 # include <stdio.h>
-
-
-int main()
+void main()
 {
     int a;
     printf("Enter the value of the no. :");
@@ -10,10 +11,8 @@ int main()
         case 0:
         printf("The no is even ");
         break;
-        case 1:
+        default:
         printf("The no. is odd");
         break;
     }
-    return 0;
 }
- 

@@ -10,6 +10,6 @@ void main()
     scanf("%f",&r);
     d = (r/2);
     C = 2*pi*r;
-    A = pi*pi*r;
+    A = pi*r*r;
     printf("Diameter is %f \nCircumference is %f \nArea is %f",d,A,C);
 }

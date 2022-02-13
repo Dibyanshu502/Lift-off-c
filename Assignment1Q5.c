@@ -11,5 +11,5 @@ void main()
     d = (r/2);
     C = 2*pi*r;
     A = pi*r*r;
-    printf("Diameter is %f \nCircumference is %f \nArea is %f",d,A,C);
+    printf("Diameter is %f \nCircumference is %f \nArea is %f",d,C,A);
 }
